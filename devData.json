@@ -6,6 +6,13 @@
             "jobStatus":"Web Developer",
             "country":"India",
             "currentEmployer":""
+        }, 
+        {
+            "name":"Mohammed Nihal k",
+            "userName":"Nihal350",
+            "jobStatus":"Student Developer",
+            "country":"India",
+            "currentEmployer":""
         }
     ]
 }
