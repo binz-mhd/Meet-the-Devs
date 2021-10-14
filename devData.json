@@ -6,6 +6,13 @@
             "jobStatus":"Web Developer",
             "country":"India",
             "currentEmployer":""
+        }, 
+        {
+            "name":"Mohammed abdul Gafoor",
+            "userName":"Mohammedabdulgafoor01",
+            "jobStatus":"entrepreneur",
+            "country":"India",
+            "currentEmployer":""
         }
     ]
 }
