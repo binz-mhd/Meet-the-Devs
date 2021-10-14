@@ -23,5 +23,13 @@
             "country":"India",
             "currentEmployer":"Currently Working At Styava"
         }
+        , 
+        {
+            "name":"Mohammed Nihal k",
+            "userName":"Nihal350",
+            "jobStatus":"Student Developer",
+            "country":"India",
+            "currentEmployer":""
+        }
      ]
 }
