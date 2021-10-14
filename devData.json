@@ -6,35 +6,6 @@
             "jobStatus":"Web Developer",
             "country":"India",
             "currentEmployer":""
-        }, 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        {
-            "name":"Mohammed abdul Gafoor",
-            "userName":"Mohammedabdulgafoor01",
-            "jobStatus":"entrepreneur",
-            "country":"India",
-            "currentEmployer":""
         }
         ,
         {
@@ -57,6 +28,14 @@
             "name":"Mohammed Nihal k",
             "userName":"Nihal350",
             "jobStatus":"Student Developer",
+            "country":"India",
+            "currentEmployer":""
+        }
+         ,
+        {
+            "name":"Mohammed abdul Gafoor",
+            "userName":"Mohammedabdulgafoor01",
+            "jobStatus":"entrepreneur",
             "country":"India",
             "currentEmployer":""
         }
