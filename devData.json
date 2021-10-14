@@ -6,7 +6,8 @@
             "jobStatus":"Web Developer",
             "country":"India",
             "currentEmployer":""
-        },
+        }
+        ,
         {
             "name":"Fathima A",
             "userName":"Fathima007",                                      
@@ -14,5 +15,13 @@
             "country":"India",
             "currentEmployer":""
         }
-      ]
+        ,
+        {
+            "name":"Fathima Beegum PJ",
+            "userName":"beegumfathima",
+            "jobStatus":"Developer Community Evengelist",
+            "country":"India",
+            "currentEmployer":"Currently Working At Styava"
+        }
+     ]
 }
