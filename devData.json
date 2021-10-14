@@ -9,11 +9,19 @@
         }
         ,
         {
+            "name":"Fathima A",
+            "userName":"Fathima007",                                      
+            "jobStatus":"Food technology student",
+            "country":"India",
+            "currentEmployer":""
+        }
+        ,
+        {
             "name":"Fathima Beegum PJ",
             "userName":"beegumfathima",
             "jobStatus":"Developer Community Evengelist",
             "country":"India",
             "currentEmployer":"Currently Working At Styava"
         }
-    ]
+     ]
 }
