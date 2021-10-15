@@ -62,6 +62,13 @@
          "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
-      }
+      },
+      {
+         "name":"Mansoor Majeed",
+         "userName":"Mans22r",
+         "jobStatus":"front-end developer",
+         "country":"India",
+         "currentEmployer":""
+      }  
    ]
 }
