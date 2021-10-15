@@ -39,5 +39,13 @@
             "country":"India",
             "currentEmployer":""
         }
+        ,
+         {
+            "name":"Abin Joseph",
+            "userName":"abjs",
+            "jobStatus":"Full Stack Developer",
+            "country":"India",
+            "currentEmployer":""
+        }
      ]
 }
