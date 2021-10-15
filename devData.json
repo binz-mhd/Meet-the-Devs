@@ -76,6 +76,13 @@
          "jobStatus":"front-end developer",
          "country":"India",
          "currentEmployer":""
-      } 
+      },
+      {
+         "name":"Raghav Babbar",
+         "userName":"BabbarRaghav",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      }
    ]
 }
