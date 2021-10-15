@@ -1,67 +1,67 @@
 {
-    "dev":[
-        {
-            "name":"Adheel Ahmed C",
-            "userName":"AdheelAhmed-D3CD",
-            "jobStatus":"Web Developer",
-            "country":"India",
-            "currentEmployer":""
-        }
-        ,
-        {
-            "name":"Fathima A",
-            "userName":"Fathima007",                                      
-            "jobStatus":"Food technology student",
-            "country":"India",
-            "currentEmployer":""
-        }
-        ,
-        {
-            "name":"Fathima Beegum PJ",
-            "userName":"beegumfathima",
-            "jobStatus":"Developer Community Evengelist",
-            "country":"India",
-            "currentEmployer":"Currently Working At Styava"
-        }
-        , 
-        {
-            "name":"Mohammed Nihal k",
-            "userName":"Nihal350",
-            "jobStatus":"Student Developer",
-            "country":"India",
-            "currentEmployer":""
-        }
-         ,
-        {
-            "name":"Mohammed abdul Gafoor",
-            "userName":"Mohammedabdulgafoor",
-            "jobStatus":"entrepreneur",
-            "country":"India",
-            "currentEmployer":""
-        }
-        ,
-         {
-            "name":"Abin Joseph",
-            "userName":"abjs",
-            "jobStatus":"Full Stack Developer",
-            "country":"India",
-            "currentEmployer":""
-        }
-        ,
-        {
-           "name":"Naswih Abdurahiman",
-           "userName":"naxwh",
-           "jobStatus":"Studant",
-           "country":"India",
-           "currentEmployer":""
-       }
-         ,
-        {
-           "name":"Oarabile Mwiya",
-           "userName":"OarabileMwiya",
-           "jobStatus":"Graduate",
-           "country":"Botswana",
-           "currentEmployer":""
-       }
-     ]
+   "dev":[
+      {
+         "name":"Adheel Ahmed C",
+         "userName":"AdheelAhmed-D3CD",
+         "jobStatus":"Web Developer",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Fathima A",
+         "userName":"Fathima007",
+         "jobStatus":"Food technology student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Fathima Beegum PJ",
+         "userName":"beegumfathima",
+         "jobStatus":"Developer Community Evengelist",
+         "country":"India",
+         "currentEmployer":"Currently Working At Styava"
+      },
+      {
+         "name":"Mohammed Nihal k",
+         "userName":"Nihal350",
+         "jobStatus":"Student Developer",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Mohammed abdul Gafoor",
+         "userName":"Mohammedabdulgafoor",
+         "jobStatus":"entrepreneur",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Abin Joseph",
+         "userName":"abjs",
+         "jobStatus":"Full Stack Developer",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Naswih Abdurahiman",
+         "userName":"naxwh",
+         "jobStatus":"Studant",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Oarabile Mwiya",
+         "userName":"OarabileMwiya",
+         "jobStatus":"Graduate",
+         "country":"Botswana",
+         "currentEmployer":""
+      },
+      {
+         "name":"Shaheem PP",
+         "userName":"the-codeholic",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      }
+   ]
 }
