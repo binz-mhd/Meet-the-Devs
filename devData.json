@@ -83,6 +83,13 @@
          "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
+      },
+      {
+         "name":"Muhammed Binzid",
+         "userName":"Binz.mhd",
+         "jobStatus":"Freelancer",
+         "country":"India",
+         "currentEmployer":""
       }
    ]
 }
