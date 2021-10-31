@@ -63,6 +63,13 @@
          "country":"India",
          "currentEmployer":""
       },
+      {
+         "name":"Abdul Hadi BP",
+         "userName":"hadibp",
+         "jobStatus":"student",
+         "country":"India",
+         "currentEmployer":""
+      },
       { 
          "name":"Muhammed Swabeeh",
          "userName":"SWABEEH22",
@@ -84,10 +91,63 @@
          "country":"India",
          "currentEmployer":""
       },
-      {
-         "name":"Muhammed Binzid",
+      {     
+         "name":"Sreelakshmi.k",
+         "userName":"sreelakshmi54",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {   "name":"Muhammed Binzid",
          "userName":"Binz.mhd",
          "jobStatus":"Freelancer",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Irshad pk",
+         "userName":"Irshad9074",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Shamil Thaikkadan",
+         "userName":"Shamilthaikkadan ",
+         "jobStatus":"Student",
+         "country":"India"
+      }, 
+      {
+         "name":"Muhammed Naseeb ",
+         "userName":"naseeb-ek",
+         "jobStatus":"Student",
+         "country":"India"
+      },
+      {
+         "name":"Afna sherin",
+         "userName":"afna34",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Mohammed Roshan T",
+         "userName":"MohammedRoshanT",
+         "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Ahammed hinas kk",
+         "userName":"hinasahammed",
+        "jobStatus":"Student",
+         "country":"India",
+         "currentEmployer":""
+      },
+      {
+         "name":"Muhammed Muhsin P",
+         "userName":"Muhsinmh",
+         "jobStatus":"Student",
          "country":"India",
          "currentEmployer":""
       }
